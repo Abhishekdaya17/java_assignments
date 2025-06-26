@@ -1,7 +1,7 @@
 class Base{
     static void info(){
-        System.out.println("Name : Anil Yadav");
-        System.out.println("Enrolment Number : 0873CS231014 \n");
+        System.out.println("Name : Abhishek Daya");
+        System.out.println("Enrolment Number : 0873CS231002 \n");
     }
 }
 public class Name extends Base{
